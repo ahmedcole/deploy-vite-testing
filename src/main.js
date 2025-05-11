@@ -19,6 +19,7 @@ document.querySelector('#app').innerHTML = `
     <p class="read-the-docs">
       Click on the Vite logo to learn more
     </p>
+    <h1> Hi my name is ahmed</h1>
   </div>
 `
 
